@@ -1,0 +1,4 @@
+.venv/
+output/
+structured-output/
+.env

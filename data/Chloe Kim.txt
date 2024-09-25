@@ -1,0 +1,24 @@
+Chloe Kim
+Address: 789 Airforce Blvd, Los Angeles, CA 90001
+Phone: (555) 555-1234
+Email: chloe.kim@email.com
+
+Profile
+Innovative computer scientist with a passion for aerospace simulation tools. With two years of experience, I’m eager to bring my coding skills to the Air Force Research Laboratory, transforming ideas into reality.
+
+Education
+Bachelor’s in Computer Science
+University of California, Los Angeles, CA
+Graduated: May 2021
+
+Experience
+Software Developer
+Aerospace Simulations Inc., Los Angeles, CA
+June 2021 – Present
+
+Created advanced simulation software for aircraft flight dynamics.
+Collaborated closely with engineering teams to enhance simulation fidelity.
+Skills
+Programming Proficiency: Fluent in Python and C++, capable of crafting robust applications.
+Algorithmic Insight: Strong foundation in algorithms, allowing for optimized software solutions.
+Team Collaborator: Exceptional communicator, effectively translating technical concepts for diverse audiences.
